@@ -2,7 +2,7 @@
 - 🎓 CS @ UPEI | Class of 2028
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, and Football
 - 💻 Building tools to make everyday life easier
-- 📫 Reach me at: rdhurrill@gmail.com
+- 📫 Reach me at: rdhurrill@gmail.com / rhurrill@upei.ca
   
 🛠️ Tech Stack:
 Python | JavaScript 
